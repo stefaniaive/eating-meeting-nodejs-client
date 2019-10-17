@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stefaniaive/eating-meeting-nodejs-client/issues"
   },
-  "homepage": "https://github.com/stefaniaive/eating-meeting-nodejs-client#readme"
+  "homepage": "https://github.com/stefaniaive/eating-meeting-nodejs-client#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
