@@ -1,0 +1,19 @@
+{
+  "name": "eating-meeting-nodejs-client",
+  "version": "1.0.0",
+  "description": "Client to use eating-meeting-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefaniaive/eating-meeting-nodejs-client.git"
+  },
+  "author": "Stefania Ive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefaniaive/eating-meeting-nodejs-client/issues"
+  },
+  "homepage": "https://github.com/stefaniaive/eating-meeting-nodejs-client#readme"
+}
